@@ -1,0 +1,6 @@
+retry-config:
+  initial-interval-ms: 1000
+  max-intervalMs: 10000
+  multiplier: 2.0
+  max-attempts: 3
+  sleep-time-ms: 2000
